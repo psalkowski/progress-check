@@ -1,0 +1,11 @@
+## Interface: 100206
+## Title: ProgressCheck
+## Notes: Auto-reply whisp message on !info command with current progress on Mythic+ dungeons
+## Author: Piotr Salkowski <skc.peter@gmail.com>
+## Version: 1.0
+## IconTexture: Interface\Icons\Ability_evoker_timelessness
+
+
+time.lua
+
+main.lua
